@@ -1,0 +1,94 @@
+# =========================
+# Python Cache Files
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Jupyter Notebook Checkpoints
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+.venv/
+env/
+
+# =========================
+# VS Code Settings
+# =========================
+.vscode/
+
+# =========================
+# PyCharm Settings
+# =========================
+.idea/
+
+# =========================
+# Environment Variables / Secrets
+# =========================
+.env
+.env.*
+
+# =========================
+# Streamlit Cache
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# Model Training Cache
+# =========================
+*.log
+logs/
+
+# =========================
+# Operating System Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Build / Distribution Files
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Python Packaging
+# =========================
+pip-wheel-metadata/
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.temp
+
+# =========================
+# Large Dataset Files (Optional)
+# Uncomment if dataset is huge
+# =========================
+# data/
+# datasets/
+
+# =========================
+# Streamlit Runtime
+# =========================
+.streamlit/
+
+# =========================
+# Coverage / Testing
+# =========================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# =========================
+# Local Database Files
+# =========================
+*.db
+*.sqlite3
