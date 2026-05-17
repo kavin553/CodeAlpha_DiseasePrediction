@@ -7,7 +7,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge)
 ![CodeAlpha](https://img.shields.io/badge/CodeAlpha-Internship-orange?style=for-the-badge)
 
-<img src="https://media.giphy.com/media/3o7TKsQ8UQ6M6lO7EA/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDV6OHl5eHVrZGZ6N25hZG5jaTR0bGJvMGJxN2pydTg0c2x3M3BjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
 
 ### 🚀 Real-World AI Healthcare Prediction System
 
